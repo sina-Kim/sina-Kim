@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m now an undergraduate at [KIT Computer Engineering](https://ce.kumoh.ac.kr/ce/index.do).
+- 🎓 And a master's degree program is planned.
+- 🌱 I’m currently learning machine-learning, deep-learning (close to computer vision)
+- 📫 How to reach me: sinabero3271@kakao.com
+
 <!--
 **sina-Kim/sina-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
