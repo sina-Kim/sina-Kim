@@ -4,7 +4,7 @@
 - 🎓 And a master's degree program is planned.
 - 🌱 I’m currently learning machine-learning, deep-learning (close to computer vision)
 - 📫 How to reach me, sinabero3271@kakao.com
-- ✨ My blog is here, https://velog.io/@sinakim 
+- ✨ My blog is here, [sinakim.me](https://sinakim.me)
 
 <!--
 **sina-Kim/sina-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
