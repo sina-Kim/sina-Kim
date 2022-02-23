@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m now an undergraduate at [KIT Computer Engineering](https://ce.kumoh.ac.kr/ce/index.do).
-- 🎓 And a master's degree program is planned.
+- 🔭 I’m in the master's course at [KIT Computer Engineering](https://cam.kumoh.ac.kr/cam/index.do).
 - 🌱 I’m currently learning machine-learning, deep-learning (close to computer vision)
 - 📫 How to reach me, sinabero3271@kakao.com
 - ✨ My blog is here, [sinakim.me](https://sinakim.me)
