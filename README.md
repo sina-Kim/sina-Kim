@@ -17,8 +17,9 @@
 	<h3> <font color="202020"> Widgets </font> </h3>
 
 <table border="0">
-<tr>
-	<td> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinabero3271)](https://solved.ac/sinabero3271) </td>
+<tr> <td> 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinabero3271)](https://solved.ac/sinabero3271) 
+</td>
 	<td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats) </td>
 </tr>
 <tr>
