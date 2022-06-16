@@ -16,19 +16,11 @@
 <div align="center">
 	<h3> <font color="202020"> Widgets </font> </h3>
 
-	<table border="1">
-		<tr>
-			<td> <a href="https://solved.ac/sinabero3271" rel="nofollow">
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinabero3271" alt="Solved.ac 프로필" style="max-width: 100%;">
-	</a> </td>
-			<td> </td>
-		</tr>
-		<tr>
-			<td> </td>
-			<td> </td>
-		</tr>
-
-	</table>
+<span><a href="https://solved.ac/sinabero3271" rel="nofollow">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinabero3271" alt="Solved.ac 프로필" style="max-width: 100%;">
+</a></span><span><a href="https://solved.ac/sinabero3271" rel="nofollow">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sinabero3271" alt="Solved.ac 프로필" style="max-width: 100%;">
+</a></span>
 	
 <div style="float:left">
 
