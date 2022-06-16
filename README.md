@@ -16,17 +16,8 @@
 <div align="center">
 	<h3> <font color="202020"> Widgets </font> </h3>
 
-	<span>
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinabero3271)](https://solved.ac/sinabero3271) 
-
-	<span/>
-	<span>
-		
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats)
-
-	<span/>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats)
 
 </div>
