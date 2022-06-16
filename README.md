@@ -22,10 +22,14 @@
 
 </div>
 <div style="display:inline-block">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats) </td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats)
+
 </div>
 <div style="float:left">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats) </td>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats)
+
 </div>
 </div>
 
