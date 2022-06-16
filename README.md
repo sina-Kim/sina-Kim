@@ -15,16 +15,11 @@
 
 <div align="center">
 	<h3> <font color="202020"> Widgets </font> </h3>
-<div display="block" overflow="auto">
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinabero3271)](https://solved.ac/sinabero3271) 
 <img src="https://media0.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e474pb1hpuxfe4dz50rhxtawn0cfe49hfgvqq4ch66e&rid=giphy.gif&ct=g" />
-
-</div>
-<div display="block" overflow="auto">
 	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-Kim&&langs_count=4)](https://github.com/sina-Kim/github-readme-stats)
 
-</div>
 </div>
