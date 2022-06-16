@@ -7,7 +7,7 @@
 </div>
 
 <div> <ul>
-	<li>🏫 I’m in the master's course at [KIT Computer Engineering](https://cam.kumoh.ac.kr/cam/index.do).</li>
+	<li>🏫 I’m in the master's course at <a href="https://cam.kumoh.ac.kr/cam/index.do">KIT Computer Engineering </a></li>
 	<li>📖 I’m currently learning machine-learning, deep-learning (vision, time-series)</li>
 	<li>📮 How to reach me: <a href="mailto:sinabero3271@kakao.com"> sinabero3271@kakao.com </a></li>
 	<li>📝 My blog is here, <u> under maintenance </u></li>
