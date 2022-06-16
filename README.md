@@ -19,7 +19,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinabero3271)](https://solved.ac/sinabero3271) 
 	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-Kim&layout=compact)](https://github.com/sina-Kim/github-readme-stats)
 
 </div>
 
