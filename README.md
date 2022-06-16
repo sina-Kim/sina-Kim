@@ -16,39 +16,16 @@
 <div align="center">
 	<h3> <font color="202020"> Widgets </font> </h3>
 
-<table border="0">
-<tr> <td> 
+<div style="float:left">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinabero3271)](https://solved.ac/sinabero3271) 
-</td>
-	<td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats) </td>
-</tr>
-<tr>
-	<td> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats) </td>
-	<td> </td>
-</tr>	
-</table>
 </div>
-
-Column 1
---------------------------------------------------
-
-### Chart A
-
-```{r}
-```
-
-Column 2
---------------------------------------------------
-
-### Chart B
-
-```{r}
-```
-
-### Chart C
-
-```{r}
-```
+<div style="display:inline-block">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats) </td>
+</div>
+<div style="float:left">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sina-Kim)](https://github.com/sina-Kim/github-readme-stats) </td>
+</div>
+</div>
 
 <div align="center">
 	<img src="https://media0.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e474pb1hpuxfe4dz50rhxtawn0cfe49hfgvqq4ch66e&rid=giphy.gif&ct=g" />
