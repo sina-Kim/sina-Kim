@@ -10,7 +10,7 @@
 	<li>🏫 I’m in the master's course at <a href="https://cam.kumoh.ac.kr/cam/index.do">KIT Computer Engineering </a></li>
 	<li>📖 I’m currently learning machine-learning, deep-learning (vision, time-series)</li>
 	<li>📮 How to reach me: <a href="mailto:sinabero3271@kakao.com"> sinabero3271@kakao.com </a></li>
-	<li>📝 My blog is here, <u> under maintenance </u></li>
+	<li>📝 My blog is here, <a href="https://sinakim.notion.site/b39c9d7ba89d4a339fba828ace5f5a1b"> sinakim.notion.site  </a></li>
 </ul> </div>
 
 <div align="center">
